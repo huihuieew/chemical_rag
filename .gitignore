@@ -10,3 +10,4 @@ llama2_tokenizer
 # vectorstore
 # 忽略所有 以vector开头的文件夹、文件
 vector*
+txt_papers
